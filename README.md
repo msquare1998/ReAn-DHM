@@ -5,6 +5,6 @@ This project has passed tests on MacOS-14 and Ubuntu22.04.
 
 To run the project, using ```run.sh```.
 
-Reference: the 1st example in https://arxiv.org/abs/2403.08642
+Reference: the 1st example in https://arxiv.org/abs/2403.08642 or https://doi.org/10.1103/PhysRevB.110.165152
 
 Contact me: dingyiming@westlake.edu.cn
